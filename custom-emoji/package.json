@@ -1,0 +1,27 @@
+{
+    "name": "custom-emoji",
+    "version": "0.0.0",
+    "author": "Andrea Abellera",
+    "license": "MIT",
+    "description": "Add an emoji of your choice inline to your paragraph or heading text.",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/andreaabellera/Casually-UI.git"
+    },
+    "keywords": [
+        "custom-emoji",
+        "customemoji",
+        "emoji",
+        "casually-ui",
+        "casuallyui",
+        "casually",
+        "uitoolkit"
+    ],
+    "bugs": {
+        "url": "https://github.com/andreaabellera/Casually-UI/issues"
+    },
+    "homepage": "https://github.com/andreaabellera/Casually-UI#readme"
+}

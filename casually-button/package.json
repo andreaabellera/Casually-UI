@@ -1,9 +1,9 @@
 {
-    "name": "casually-ui",
+    "name": "casually-button",
     "version": "0.0.0",
     "author": "Andrea Abellera",
     "license": "MIT",
-    "description": "Speedrun an awesome UI with smart, pre-styled native web components.",
+    "description": "A stylish button component from Casually UI.",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
@@ -12,6 +12,8 @@
         "url": "git+https://github.com/andreaabellera/Casually-UI.git"
     },
     "keywords": [
+        "casually-button",
+        "casuallybutton",
         "casually-ui",
         "casuallyui",
         "casually",

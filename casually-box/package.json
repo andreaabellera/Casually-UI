@@ -1,0 +1,26 @@
+{
+    "name": "casually-box",
+    "version": "0.0.0",
+    "author": "Andrea Abellera",
+    "license": "MIT",
+    "description": "A stylish, slottable box component from Casually UI.",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/andreaabellera/Casually-UI.git"
+    },
+    "keywords": [
+        "casually-box",
+        "casuallybox",
+        "casually-ui",
+        "casuallyui",
+        "casually",
+        "uitoolkit"
+    ],
+    "bugs": {
+        "url": "https://github.com/andreaabellera/Casually-UI/issues"
+    },
+    "homepage": "https://github.com/andreaabellera/Casually-UI#readme"
+}
