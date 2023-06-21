@@ -1,5 +1,5 @@
 {
-    "name": "social-button",
+    "name": "social-link-button",
     "version": "0.0.0",
     "author": "Andrea Abellera",
     "license": "MIT",
@@ -12,8 +12,8 @@
         "url": "git+https://github.com/andreaabellera/Casually-UI.git"
     },
     "keywords": [
+        "social-link-button",
         "social-button",
-        "socialbutton",
         "social-media",
         "socialmedia",
         "smart-components",
