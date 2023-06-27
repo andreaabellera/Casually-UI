@@ -1,10 +1,10 @@
 {
     "name": "casually-button",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "author": "Andrea Abellera",
     "license": "MIT",
-    "description": "A stylish button component from Casually UI.",
-    "main": "casually-button.ts",
+    "description": "A stylish button native web component from the Casually UI collection.",
+    "main": "casually-button.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
@@ -13,8 +13,7 @@
         "url": "git+https://github.com/andreaabellera/Casually-UI.git"
     },
     "files": [
-        "casually-button.ts",
-        "styles"
+        "casually-button.js"
     ],
     "keywords": [
         "casually-button",
