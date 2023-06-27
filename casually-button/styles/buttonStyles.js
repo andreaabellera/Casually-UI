@@ -1,3 +1,6 @@
+import { css } from "lit"
+
+export const buttonStyles = css`
 #wedge.btnOuter{
     display: block;
     height: max-content;
@@ -93,3 +96,4 @@
     height: 100%;
     width: 100%;
 }
+`

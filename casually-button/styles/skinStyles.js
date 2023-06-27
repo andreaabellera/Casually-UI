@@ -1,9 +1,12 @@
+import { css } from "lit"
+
+export const skinStyles = css`
 @font-face { font-family: 'Jura'; src: url('./font/Jura-VariableFont_wght.ttf'); } 
 @font-face { font-family: 'Inria Sans'; src: url('./font/InriaSans-Regular.ttf');}
 @font-face { font-family: 'Eczar'; src: url('./font/Eczar-VariableFont_wght.ttf');}
 @font-face { font-family: 'Awa Handwriting'; src: url('./font/AwaHandwriting-Regular.otf');}
 
-:root{
+:host{
 	--navy: #1C1A92;
 	--navygrad: linear-gradient(to bottom, #2f2f69, #3a3991, #2a2892, #1e1b92);
 	--white: #FBFBFB;
@@ -47,7 +50,7 @@ a{
 }
 
 .platinum{
-    font-family: 'Jura';
+    font-family: 'Jura', sans-serif;
 }
 .asphalt{
 	font-family: 'Inria Sans';
@@ -275,3 +278,5 @@ a{
     text-shadow: -1px 2px var(--epoxy-shad);
     backdrop-filter: blur(3px);
 }
+
+`

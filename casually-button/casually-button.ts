@@ -9,8 +9,8 @@
 import { LitElement, html } from "lit"
 import { customElement, property } from "lit/decorators.js"
 import { choose } from "lit/directives/choose.js"
-import { skinStyles } from '../assets/skinStyles';
-import { buttonStyles } from '../assets/buttonStyles';
+import { skinStyles } from './styles/skinStyles';
+import { buttonStyles } from './styles/buttonStyles';
 
 
 @customElement("casually-button")
