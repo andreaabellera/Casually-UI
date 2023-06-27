@@ -17,7 +17,7 @@
     "build": "tsc && vite build"
   },
   "dependencies": {
-    "casually-button": "^0.0.8",
+    "casually-button": "^0.0.9",
     "lit": "^2.6.1"
   },
   "devDependencies": {

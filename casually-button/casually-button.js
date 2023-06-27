@@ -281,7 +281,7 @@ class CasuallyButton extends LitElement {
             }
             
             #wedge.btnOuter{
-                display: block;
+                display: inline-grid;
                 height: max-content;
                 max-height: 40vh;
                 width: max-content;
@@ -299,7 +299,7 @@ class CasuallyButton extends LitElement {
                 width: max-content;
                 max-width: 300px;
                 margin: 20px;
-                display: grid;
+                display: inline-grid;
                 grid-template-columns: 1.3em max-content 1.3em;
             }
 
@@ -332,7 +332,7 @@ class CasuallyButton extends LitElement {
                 padding: 0.8em 0.6em;
             }
             #wedge .fill{
-                padding: 0 0.3em;
+                padding: 0.8em 0.6em;
             }
 
             .btnOuter span{
